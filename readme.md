@@ -1,1 +1,1 @@
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Remuer)(https://reflate.ga/)
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Remuer)
